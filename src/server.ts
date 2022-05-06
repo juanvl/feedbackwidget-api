@@ -1,5 +1,2 @@
-const teste = 1
-
-async function testeee() {
-  return teste
-}
+const teste = 1;
+console.log(teste);
